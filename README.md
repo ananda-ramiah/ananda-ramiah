@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations.I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
-
+------------------------------------------------------------------------------------
 ### About me:
 
 I am a BIT alumni from the James Cook University specialized in Data Analytics. My academic journey made me proficient in data processing, analysis, project management, and data visualisation. I am highly skilled in a variety of programming languages such as Python, R, Matlab, SQL, and Java. I have passion for continuous learning and collaborating in multidisciplinary groups.
