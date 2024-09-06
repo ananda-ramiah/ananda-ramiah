@@ -14,8 +14,12 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 <a href="images"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" align="left" height="48" width="48" ></a>
+<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg" align="left" height="48" width="48" ></a>
+<a href="images"><img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" align="left" height="48" width="48" ></a>
+<a href="images"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a><br/>
-
+****
+### Certifications
 ****
 ### :chart: My Stats:
 
