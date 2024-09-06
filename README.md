@@ -4,12 +4,12 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm53ZDhzN20ycmRkYXlwZWRpcjFyMm40eDAzeHFlajR4ZGFzMGFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy-downsized.gif" width="150"/>
 </div>
 
-Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations. I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
+Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this data analytics, including exploratory analyses, machine learning models and data visualizations. I have participated in boot camps, technical training, and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to contact me!
 
 ****
 ### :rocket: About me:
 
-I am a BIT alumni from the James Cook University specialized in Data Analytics. My academic journey made me proficient in data processing, analysis, project management, and data visualisation. I am highly skilled in a variety of programming languages such as Python, R, Matlab, SQL, and Java. I have passion for continuous learning and collaborating in multidisciplinary groups.
+I am a BIT alumni from the James Cook University specializing in Data Analytics. My academic journey made me proficient in data processing, analysis, project management, and data visualization. I am highly skilled in various programming languages such as Python, R, Matlab, SQL, and Java. I have a passion for continuous learning and collaborating in multidisciplinary groups.
 ****
 ### 🛠️ Languages and Tools:
 
