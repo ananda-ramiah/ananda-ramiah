@@ -29,12 +29,12 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 <a href="images"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" align="left" height="48" width="48" ></a>
-<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a>
-<br />
-<p>
+<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a><br />
+
 ### :chart: My Stats
-</p>
+
 <br />
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananda-ramiah)](https://git.io/streak-stats)
 
