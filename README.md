@@ -36,6 +36,11 @@ I am an aspiring data analyst residing in Australia
     - Employee Retention Classification (Python): Built a classification model that predicts whether an employee will leave or stay.
 ****
 ### 🧾 Certifications:
+
+<div id="header" >
+  <img src="https://www.credly.com/badges/5ce253c5-c620-4958-b683-97041fc03dd4/public_url" width="150"/>
+</div>
+
 ****
 ### :chart: My Stats:
 
