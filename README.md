@@ -35,7 +35,9 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 
 
 ### :chart: My Stats:
+
 <br />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananda-ramiah)](https://git.io/streak-stats)
 
 
