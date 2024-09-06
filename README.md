@@ -8,6 +8,10 @@
 
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this data analytics, including exploratory analyses, machine learning models and data visualizations. I have participated in boot camps, technical training, and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to contact me!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ****
 ### :rocket: About me:
 
