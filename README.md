@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile :wave:
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm53ZDhzN20ycmRkYXlwZWRpcjFyMm40eDAzeHFlajR4ZGFzMGFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy-downsized-large.gif" width="100"/>
+  <img src="https://giphy.com/gifs/matrix-coding-glitchy-QKDpE67Rc7rpjBmQPj" width="100"/>
 </div>
 
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations. I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
