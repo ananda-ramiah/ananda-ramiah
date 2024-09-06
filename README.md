@@ -25,7 +25,7 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
     - TikTok Claims Classification (Python): Build a classification model that classifies whether a video contains a claim or opinion to reduce the backlog of user reports and prioritize them more efficiently.
     - Employee Retention Classification (Python): Built a classification model that predicts whether an employee will leave or stay.
 ****
-### 🧾 Certifications
+### 🧾 Certifications:
 ****
 ### :chart: My Stats:
 
