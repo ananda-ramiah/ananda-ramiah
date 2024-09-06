@@ -24,4 +24,6 @@ Hello, fellow developers! My name is Ananda.Here you will find several projects 
 <a href="images"><img src="https://camo.githubusercontent.com/9ffda513f5a640d6aa9ee07c2b2fcbbc421d6101cd6df62dd0e1f2be9fd1beb0/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" align="left" height="48" width="48" ></a>
+<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" align="left" height="48" width="48" ></a>
+<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a>
 
