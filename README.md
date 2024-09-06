@@ -2,7 +2,7 @@
 
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations.I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ananda-ramiah)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ****
