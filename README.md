@@ -31,7 +31,7 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a><br />
 
-<br />
+
 ### :chart: My Stats:
 
 <br />
