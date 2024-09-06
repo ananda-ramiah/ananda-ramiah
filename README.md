@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile :wave:
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm53ZDhzN20ycmRkYXlwZWRpcjFyMm40eDAzeHFlajR4ZGFzMGFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy-downsized.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm53ZDhzN20ycmRkYXlwZWRpcjFyMm40eDAzeHFlajR4ZGFzMGFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy-downsized.gif" width="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=ananda-ramiah&style=flat-square&color=blue" alt=""/>
