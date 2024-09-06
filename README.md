@@ -1,20 +1,5 @@
 ## Welcome to my GitHub profile :wave:
 
-<!--
-**ananda-ramiah/ananda-ramiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations.I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
 ----
 ### About me:
@@ -29,7 +14,7 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 <a href="images"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/plotly/plotly-original.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/matlab/matlab-original.svg" align="left" height="48" width="48" ></a>
-<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a><br />
+<a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a>
 
 ----
 ### :chart: My Stats:
