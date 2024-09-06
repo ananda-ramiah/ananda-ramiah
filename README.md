@@ -1,4 +1,4 @@
-![python-original](https://github.com/user-attachments/assets/2b18c8ae-1029-4ddd-9b7e-c959c72ca51c)## Hi there 👋, welcome to my GitHub profile
+## Hi there 👋, welcome to my GitHub profile
 
 <!--
 **ananda-ramiah/ananda-ramiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
