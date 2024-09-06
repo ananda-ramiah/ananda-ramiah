@@ -37,9 +37,9 @@ I am an aspiring data analyst residing in Australia
 ****
 ### 🧾 Certifications:
 
-![Google Advanced Data Analytics Certificate](https://www.credly.com/badges/5ce253c5-c620-4958-b683-97041fc03dd4/public_url)
+![Google Advanced Data Analytics Certificate](https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
 
-![Data Science Professional Certificate](https://www.credly.com/badges/e990cbbb-f170-4af3-b1c3-991a15912c92/public_url)
+![Data Science Professional Certificate](https://images.credly.com/size/220x220/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png)
 
 ****
 ### :chart: My Stats:
