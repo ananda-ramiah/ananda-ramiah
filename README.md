@@ -4,6 +4,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm53ZDhzN20ycmRkYXlwZWRpcjFyMm40eDAzeHFlajR4ZGFzMGFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy-downsized.gif" width="150"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ananda-ramiah/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=ananda-ramiah&style=flat-square&color=blue" alt=""/>
+
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this data analytics, including exploratory analyses, machine learning models and data visualizations. I have participated in boot camps, technical training, and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to contact me!
 
 ****
