@@ -2,19 +2,10 @@
 
 Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this area, including exploratory analyses, machine learning models and data visualizations. I have participated in bootcamps, technical training and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to get in touch!
 
-
-
 ****
 ### :rocket: About me:
 
 I am a BIT alumni from the James Cook University specialized in Data Analytics. My academic journey made me proficient in data processing, analysis, project management, and data visualisation. I am highly skilled in a variety of programming languages such as Python, R, Matlab, SQL, and Java. I have passion for continuous learning and collaborating in multidisciplinary groups.
-****
-### 💻 Data Projects:
-- Google Advanced Data Analytics Professional Certificate
-    - TikTok Claims Classification (Python): Build a classification model that classifies whether a video contains a claim or opinion to reduce the backlog of user reports and prioritize them more efficiently.
-    - Employee Retention Classification (Python): Built a classification model that predicts whether an employee will leave or stay.
-
-
 ****
 ### 🛠️ Languages and Tools:
 
@@ -28,6 +19,11 @@ I am a BIT alumni from the James Cook University specialized in Data Analytics. 
 <a href="images"><img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" align="left" height="48" width="48" ></a>
 <a href="images"><img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" align="left" height="48" width="48" ></a><br/>
+****
+### 💻 Data Projects:
+- Google Advanced Data Analytics Professional Certificate
+    - TikTok Claims Classification (Python): Build a classification model that classifies whether a video contains a claim or opinion to reduce the backlog of user reports and prioritize them more efficiently.
+    - Employee Retention Classification (Python): Built a classification model that predicts whether an employee will leave or stay.
 ****
 ### 🧾 Certifications
 ****
