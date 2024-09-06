@@ -43,5 +43,7 @@ I am an aspiring data analyst residing in Australia
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ananda-ramiah&theme=highcontrast)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
