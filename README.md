@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ananda-ramiah&style=flat-square&color=blue" alt=""/>
 
-Hello, fellow developers! My name is Ananda. Here you will find several projects focused on this data analytics, including exploratory analyses, machine learning models, and data visualizations. I have participated in boot camps, technical training, and courses focused on data. You can check out my courses in this repository. Feel free to explore my projects and if you have any questions or suggestions, don't hesitate to contact me!
+Hello, fellow developers! My name is Ananda. Here you will find several projects focused on data analytics, including exploratory analyses, machine learning models, and data visualizations. I have participated in boot camps, technical training, and data-focused courses. You can check out my courses in this repository. Feel free to explore my projects, and if you have any questions or suggestions, don't hesitate to contact me!
 
 ****
 ### :rocket: About me:
